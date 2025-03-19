@@ -30,7 +30,7 @@ header {
 aside {
   width: 25%;
   background: #ddd;
-  padding: 10px;
+  padding: 20px;
 }
 main {
   flex-grow: 1;
