@@ -51,3 +51,8 @@ footer {
 p {
   text-align: justify;
 }
+
+a {
+  text-decoration: underline;
+  color: #fff;
+}
